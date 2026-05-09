@@ -34,3 +34,18 @@ Main functions used:
 💡Explanation / Reasoning:
 This feature allows communication between buyer and seller. In real platforms like PakWheels, users can directly contact sellers for inquiries. In our system, this is implemented using the Message class which handles buyer-seller communication for a specific listing.
 
+![image alt](https://github.com/k250055-Aliyan/A2--25k-0055-/blob/f54347432cfa5de3ab17f101e91b888f759ce04a/Screenshot%202026-05-09%20160949.png)
+This screenshot shows the “Sell Your Car” section where users enter their personal and vehicle details.
+
+💻 Code Mapping:
+Seller class
+Vehicle class
+Marketplace::addListing()
+CarListing class
+
+💡 Explanation / Reasoning:
+This feature simulates the selling process where a user submits vehicle details to create a listing. In our project, the addListing() function in Marketplace handles this process and converts seller input into a structured car listing.
+
+
+
+
