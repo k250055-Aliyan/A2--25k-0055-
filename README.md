@@ -15,3 +15,23 @@ Main function used:
 
 💡 Explanation:
 This simulates the PakWheels homepage where users can browse different categories of vehicles and marketplace sections.
+
+
+![image alt](https://github.com/k250055-Aliyan/A2--25k-0055-/blob/9bd68e907d1afa5a9dfe41ad5ba52ac2866f9b6b/Screenshot%202026-05-09%20161420.png)
+
+screenshot 2: Contact Seller Feature (Car Listing Page)
+
+📷 Screenshot shows a car listing page where options like "Call Seller" and "Message Seller" are available.
+
+💻 Code Mapping:
+This feature is implemented using the `Message` class and messaging functions inside the Marketplace system.
+
+Main functions used:
+- Marketplace::sendMessage()
+- Buyer::receiveMessage()
+- Seller::receiveMessage()
+
+💡 Explanation:
+This simulates the PakWheels feature where buyers can directly contact the seller of a specific car listing to ask questions or negotiate price.
+
+
