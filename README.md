@@ -46,6 +46,18 @@ CarListing class
 💡 Explanation / Reasoning:
 This feature simulates the selling process where a user submits vehicle details to create a listing. In our project, the addListing() function in Marketplace handles this process and converts seller input into a structured car listing.
 
+![image alt](https://github.com/k250055-Aliyan/A2--25k-0055-/blob/fd85d48374185a667647e2bd1b755ddcf03cc4d1/Screenshot%202026-05-09%20160737.png)
+This screenshot shows filters like price, year, and model
+
+💻 Code Mapping:
+SearchFilter class
+Marketplace::searchListings()
+CarListing::matchesSearch()
+Vehicle attributes
+
+💡 Explanation / Reasoning:
+This feature helps users find specific cars based on conditions like price, model, and year. It improves usability by narrowing results. In our system, the SearchFilter class implements this logic, similar to PakWheels search functionality.
+
 
 
 
