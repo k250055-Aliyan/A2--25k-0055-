@@ -13,8 +13,8 @@ Main function used:
 - Marketplace::displayAllListings()
 - Marketplace::displayStats()
 
-💡 Explanation:
-This simulates the PakWheels homepage where users can browse different categories of vehicles and marketplace sections.
+Explanation / Reasoning:
+This feature represents the main landing page of a car marketplace system where users can navigate to different sections. In our project, the Marketplace class manages and displays all available listings, simulating the homepage structure of PakWheels.
 
 
 ![image alt](https://github.com/k250055-Aliyan/A2--25k-0055-/blob/9bd68e907d1afa5a9dfe41ad5ba52ac2866f9b6b/Screenshot%202026-05-09%20161420.png)
@@ -31,7 +31,6 @@ Main functions used:
 - Buyer::receiveMessage()
 - Seller::receiveMessage()
 
-💡 Explanation:
-This simulates the PakWheels feature where buyers can directly contact the seller of a specific car listing to ask questions or negotiate price.
-
+💡Explanation / Reasoning:
+This feature allows communication between buyer and seller. In real platforms like PakWheels, users can directly contact sellers for inquiries. In our system, this is implemented using the Message class which handles buyer-seller communication for a specific listing.
 
