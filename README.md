@@ -58,6 +58,16 @@ Vehicle attributes
 💡 Explanation / Reasoning:
 This feature helps users find specific cars based on conditions like price, model, and year. It improves usability by narrowing results. In our system, the SearchFilter class implements this logic, similar to PakWheels search functionality.
 
+![image alt](https://github.com/k250055-Aliyan/A2--25k-0055-/blob/1ca4886cc15af6b77697c3b340013d10978de945/Screenshot%202026-05-09%20160620.png)
+📷 This screenshot shows all used cars available for browsing
 
+💻 Code Mapping:
+Marketplace class
+CarListing class
+Vehicle class
+displayAllListings()
+
+💡 Explanation / Reasoning:
+This feature displays all available used cars in the marketplace. It represents the core browsing system of PakWheels where users can view multiple listings. In our project, Marketplace manages and displays all approved listings.
 
 
